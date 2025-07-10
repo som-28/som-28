@@ -23,7 +23,7 @@
 <td align="center" width="50%">
 
 ### 👨‍💻 Developer Profile
-🎂 **20 years old**  
+🎂 **21 years old**  
 🎓 **B.Tech CSE (AI & ML)**  
 🌍 **Based in India**  
 🎯 **Mission:** Building thoughtful, impactful systems  
