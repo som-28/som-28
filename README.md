@@ -118,13 +118,13 @@ technologies
 
 ## 🌐 Let's Connect & Collaborate
 
-<a href="https://www.linkedin.com/in/somnath-chaudhary-a56729322/">
+<a href="https://www.linkedin.com">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/your-handle">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="https://portfolio-som.netlify.app/">
+<a href="https://">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:somuuu23@gmail.com">
