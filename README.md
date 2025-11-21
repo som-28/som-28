@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Somnath%20Chaudhary&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Somnath%20Chaudhary&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somuuu23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://)
 
 </div>
 
