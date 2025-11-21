@@ -1,18 +1,26 @@
 <div align="center">
 
-```
-   _____                             __  __       ________                ____          
-  / ___/____  ____ ___  ____  ____ _/ /_/ /_     / ____/ /_  ____ ___  __/ / /_  ____ _
-  \__ \/ __ \/ __ `__ \/ __ \/ __ `/ __/ __ \   / /   / __ \/ __ `/ / / / / __ \/ __ `/
- ___/ / /_/ / / / / / / / / / /_/ / /_/ / / /  / /___/ / / / /_/ / /_/ / / / / / /_/ / 
-/____/\____/_/ /_/ /_/_/ /_/\__,_/\__/_/ /_/   \____/_/ /_/\__,_/\__,_/_/_/ /_/\__,_/  
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=45&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Somnath+Chaudhary;Building+The+Future" />
+  <img alt="Name" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=45&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Somnath+Chaudhary;Building+The+Future" />
+</picture>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> 
-  AI & ML Engineer | Full-Stack Developer
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" />
-</h3>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" /><br/>
+<sub><b>Full-Stack Dev</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" /><br/>
+<sub><b>AI & ML Engineer</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50" /><br/>
+<sub><b>Problem Solver</b></sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
