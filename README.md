@@ -1,8 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Somnath Chaudhary
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=500&color=667EEA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Hey%2C+I'm+Somnath+%F0%9F%91%8B;Somnath+Chaudhary" alt="Typing Name" />
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Full-Stack+Developer;Building+Intelligent+Systems;Open+to+New+Opportunities" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Building+Intelligent+Systems+%F0%9F%92%A1;Open+to+New+Opportunities+%E2%9C%A8" alt="Typing Subtitle" />
+</p>
 
 <br/>
 
