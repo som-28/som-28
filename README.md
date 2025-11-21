@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Somnath%20Chaudhary&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18)
+# 👨‍💻 Somnath Chaudhary
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Full-Stack+Developer;Building+Intelligent+Systems;Open+to+New+Opportunities" alt="Typing SVG" />
 
 <br/>
 
@@ -120,6 +122,8 @@ open_to:
 
 ### 💼 Currently seeking opportunities in Software Engineering, AI/ML, and Full-Stack Development
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+---
+
+⭐ **Thanks for visiting!** Feel free to explore my repositories and connect with me.
 
 </div>
