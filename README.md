@@ -1,150 +1,78 @@
 <div align="center">
 
-# 🌟 Hey there, I'm Somnath Chaudhary 
+# Hi, I'm Somnath Chaudhary 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineering+Student;Building+Tomorrow's+Technology;Always+Learning%2C+Always+Creating" alt="Typing SVG" />
+### AI & ML Engineering Student | Full-Stack Developer
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=som-28&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/som-28)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 About Me
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 👨‍💻 Developer Profile
-🎂 **21 years old**  
-🎓 **B.Tech CSE (AI & ML)**  
-🌍 **Based in India**  
-🎯 **Mission:** Building thoughtful, impactful systems  
-
-</td>
-<td align="center" width="50%">
-
-### 🌟 Philosophy
-*"Curiosity is the spark.  
-Discipline is the wand.  
-Creation is the magic."*
-
-🧠 **Always learning. Always creating.**
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-</div>
-
-<div align="center">
-
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,js,typescript,swift,html,css" alt="Programming Languages" />
-
-### Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=firebase,github,git,vscode,docker,linux" alt="Tools and Platforms" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,pytorch,fastapi,tailwind" alt="Frameworks" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:somuuu23@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## 🎨 What I'm Building
+I'm a B.Tech Computer Science student specializing in AI & ML, passionate about building scalable applications and intelligent systems. I combine strong fundamentals in software engineering with cutting-edge machine learning techniques to solve real-world problems.
 
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🤖 AI & ML
-<img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="AI"/>
-
-Exploring the frontiers of  
-Machine Learning and  
-Artificial Intelligence
-
-</td>
-<td align="center" width="50%">
-
-### ☁️ Cloud Tech
-<img src="https://img.icons8.com/fluency/48/000000/cloud.png" alt="Cloud"/>
-
-Building scalable systems  
-with modern cloud  
-technologies
-
-</td>
-</tr>
-</table>
+- 🎓 **Education:** B.Tech in Computer Science (AI & ML)
+- 🌍 **Location:** India
+- 🔭 **Current Focus:** Machine Learning, Cloud Technologies, and Full-Stack Development
+- 💼 **Open to:** Software Engineering roles, AI/ML positions, and collaborative projects
 
 ---
 
-<div align="center">
+## 🛠️ Technical Skills
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=som-28&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=som-28&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som-28&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=som-28&layout=compact&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-<div align="center">
+## 📫 Let's Connect
 
-## 🌐 Let's Connect & Collaborate
+I'm always open to discussing new opportunities, collaborations, or innovative projects. Feel free to reach out!
 
-<a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:somuuu23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
+- 📧 **Email:** [somuuu23@gmail.com](mailto:somuuu23@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com)
+- 🌐 **Portfolio:** [View my work](https://)
 
 ---
 
 <div align="center">
 
-### 💫 *Turning ideas into code, and code into experience*
+*Open to opportunities in Software Engineering, AI/ML, and Full-Stack Development*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-
-</div>
-
----
-
-<div align="center">
-<i>⭐ If you find my work interesting, feel free to star my repositories!</i>
 </div>
