@@ -129,10 +129,6 @@ Reverse Engineering             ▰▰▰▱▱▱▱▱▱▱   30%
 
 <img src="https://streak-stats.demolab.com?user=som-28&hide_border=true&border_radius=16&background=135,0b0620,1a0f3d&ring=a78bfa&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ede9fe&sideNums=ede9fe&dates=8b7fc7" alt="github streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=som-28&bg_color=0b0620&color=c4b5fd&line=7c3aed&point=ede9fe&area=true&area_color=7c3aed&hide_border=true&radius=16" alt="activity graph" width="97%" />
-
 </div>
 
 <a id="connect"></a>
