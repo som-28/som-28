@@ -59,7 +59,7 @@ UPTIME    : Lacking Sleep
 
 **`> Tools & Platforms`**
 
-<img src="https://skillicons.dev/icons?i=linux,git,podman,docker,wireshark,kali&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=linux,git,nmap,bettercap,wireshark,kali&theme=dark" alt="tools" />
 
 ---
 
