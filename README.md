@@ -86,12 +86,11 @@ Reverse Engineering            ██████░░░░░░░░░░�
 
 <table align="center">
   <tr>
-    <td align="center" width="140"><b>🛡️ Cybersecurity</b><br/><sub>Labs, CTFs,<br/>Security Research</sub></td>
-    <td align="center" width="140"><b>🐧 Linux</b><br/><sub>System Administration<br/>and Customisation</sub></td>
-    <td align="center" width="140"><b>🌐 Networking</b><br/><sub>Protocols, Traffic Analysis,<br/>Troubleshooting</sub></td>
+    <td align="center" valign="top" width="200"><b>🛡️ Cybersecurity</b><br/><sub>Labs, CTFs,<br/>Security Research</sub></td>
+    <td align="center" valign="top" width="200"><b>🐧 Linux</b><br/><sub>System Administration<br/>and Customisation</sub></td>
+    <td align="center" valign="top" width="200"><b>🌐 Networking</b><br/><sub>Protocols, Traffic Analysis,<br/>Troubleshooting</sub></td>
   </tr>
 </table>
-
 ---
 
 ### `[ 06 ]` github_stats
