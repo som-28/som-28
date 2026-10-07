@@ -86,9 +86,6 @@ Reverse Engineering            ██████░░░░░░░░░░�
     <td align="center" width="140"><b>🐧 Linux</b><br/><sub>System Administration<br/>and Customisation</sub></td>
     <td align="center" width="140"><b>🌐 Networking</b><br/><sub>Protocols, Traffic Analysis,<br/>Troubleshooting</sub></td>
   </tr>
-  <tr>
-    <td align="center" width="140"><b>📖 Reading</b><br/><sub>Sci-Fi, Fiction<br/>and more</sub></td>
-  </tr>
 </table>
 
 ---
