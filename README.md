@@ -85,12 +85,8 @@ Reverse Engineering            ██████░░░░░░░░░░�
     <td align="center" width="140"><b>🛡️ Cybersecurity</b><br/><sub>Labs, CTFs,<br/>Security Research</sub></td>
     <td align="center" width="140"><b>🐧 Linux</b><br/><sub>System Administration<br/>and Customisation</sub></td>
     <td align="center" width="140"><b>🌐 Networking</b><br/><sub>Protocols, Traffic Analysis,<br/>Troubleshooting</sub></td>
-    <td align="center" width="140"><b>🧠 AI / ML</b><br/><sub>Exploring Intelligent<br/>Systems</sub></td>
   </tr>
   <tr>
-    <td align="center" width="140"><b>&lt;/&gt; Full-Stack Dev</b><br/><sub>Building Useful<br/>Applications</sub></td>
-    <td align="center" width="140"><b>🎮 Gaming</b><br/><sub>Minecraft, COC<br/>& more</sub></td>
-    <td align="center" width="140"><b>🎵 Music</b><br/><sub>Singing, Songwriting<br/>and Listening</sub></td>
     <td align="center" width="140"><b>📖 Reading</b><br/><sub>Sci-Fi, Fiction<br/>and more</sub></td>
   </tr>
 </table>
