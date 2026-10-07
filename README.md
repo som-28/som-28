@@ -57,33 +57,27 @@ UPTIME    : Lacking Sleep
 </tr>
 </table>
 
-
 <a id="skills"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=2&section=header" width="100%" />
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=15&duration=1600&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=460&height=34&letterSpacing=2px&lines=%5B+03+%5D+TECHNICAL_SKILLS" alt="[ 03 ] TECHNICAL_SKILLS" /></div>
 
-<div align="center">
-
-<sub><code>languages</code></sub><br/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=11&duration=1200&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=300&height=26&letterSpacing=2px&lines=%3E+LANGUAGES" alt="> LANGUAGES" /><br/>
 <img src="https://skillicons.dev/icons?i=python,bash,js,html,css&theme=dark" alt="languages" />
-
-<br/><br/>
-
-<sub><code>frameworks & libraries</code></sub><br/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=11&duration=1200&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=300&height=26&letterSpacing=2px&lines=%3E+FRAMEWORKS+%26+LIBRARIES" alt="> FRAMEWORKS & LIBRARIES" /><br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,tensorflow,pytorch,tailwind&theme=dark" alt="frameworks" />
-
-<br/><br/>
-
-<sub><code>tools & platforms</code></sub><br/>
-<img src="https://skillicons.dev/icons?i=linux,git,kali&theme=dark" alt="tools" />
-<br/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=11&duration=1200&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=300&height=26&letterSpacing=2px&lines=%3E+TOOLS+%26+PLATFORMS" alt="> TOOLS & PLATFORMS" /><br/>
+<img src="https://skillicons.dev/icons?i=linux,git,kali&theme=dark" alt="tools" /><br/>
 <img src="https://img.shields.io/badge/Nmap-1a0f3d?style=for-the-badge&labelColor=1a0f3d&color=7c3aed" alt="Nmap" />
 <img src="https://img.shields.io/badge/Bettercap-1a0f3d?style=for-the-badge&labelColor=1a0f3d&color=7c3aed" alt="Bettercap" />
-<img src="https://img.shields.io/badge/Wireshark-1a0f3d?style=for-the-badge&logo=wireshark&logoColor=c4b5fd&labelColor=1a0f3d&color=7c3aed" alt="Wireshark" />
-
-</div>
+<img src="https://img.shields.io/badge/Wireshark-1a0f3d?style=for-the-badge&labelColor=1a0f3d&color=7c3aed" alt="Wireshark" />
+</p>
 
 <br/>
 
