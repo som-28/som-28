@@ -51,7 +51,7 @@ UPTIME    : Lacking Sleep
 
 **`> Languages`**
 
-<img src="https://skillicons.dev/icons?i=python,bash,js,ts,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=python,bash,js,html,css&theme=dark" alt="languages" />
 
 **`> Frameworks & Libraries`**
 
