@@ -42,21 +42,7 @@ OS        : Arch Linux (btw)
 SHELL     : Bash
 WM        : Sway
 TERMINAL  : Alacritty
-UPTIME    : Forever Learning
-MOOD      : Focused
-STATUS    : 🟢 Online
-GOAL      : Become a security focused engineer
-```
-
-```json
-{
-  "curiosity": true,
-  "discipline": true,
-  "overthinking": true,
-  "progress": true,
-  "coffee": true,
-  "give_up": false
-}
+UPTIME    : Lacking Sleep
 ```
 
 ---
