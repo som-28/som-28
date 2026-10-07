@@ -22,7 +22,6 @@ education   : B.Tech in Computer Science (AI & ML)
 location    : India
 role        : Cybersecurity Learner
 focus       : Linux, Networking, Security
-also into  : AI/ML, Full-Stack Development
 ```
 
 ```bash
