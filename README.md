@@ -57,16 +57,6 @@ UPTIME    : Lacking Sleep
 </tr>
 </table>
 
-<div align="center">
-
-```bash
-$ cat /etc/motivation
-
-"Building skills, breaking limits
- and figuring things out one lab at a time."
-```
-
-</div>
 
 <a id="skills"></a>
 
