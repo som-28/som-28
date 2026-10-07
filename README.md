@@ -59,7 +59,11 @@ UPTIME    : Lacking Sleep
 
 **`> Tools & Platforms`**
 
-<img src="https://skillicons.dev/icons?i=linux,git,nmap,bettercap,wireshark,kali&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=linux,git,kali&theme=dark" alt="tools" />
+<br/>
+<img src="https://img.shields.io/badge/Nmap-0b0620?style=for-the-badge&labelColor=0b0620&color=3b1d8f" alt="Nmap" />
+<img src="https://img.shields.io/badge/Bettercap-0b0620?style=for-the-badge&labelColor=0b0620&color=3b1d8f" alt="Bettercap" />
+<img src="https://img.shields.io/badge/Wireshark-0b0620?style=for-the-badge&logo=wireshark&logoColor=a78bfa&labelColor=0b0620&color=3b1d8f" alt="Wireshark" />
 
 ---
 
