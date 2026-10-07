@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=2,12,24&height=220&section=header&text=SOMNATH%20CHAUDHARY&fontColor=ede9fe&fontSize=48&fontAlignY=38&desc=cybersecurity%20%C2%B7%20linux%20%C2%B7%20networking%20%C2%B7%20and%20beyond&descSize=16&descColor=c4b5fd&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=2,12,24&height=140&section=header" width="100%" />
 
-<a href="https://som28-dev.netlify.app"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=560&height=30&lines=%3E+Learn.+Break.+Understand.+Document.+Repeat._;Building+skills%2C+breaking+limits.;Curiosity+today.+A+stronger+tomorrow." alt="typing" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=38&duration=2400&pause=100000&repeat=false&color=EDE9FE&center=true&vCenter=true&width=760&height=60&letterSpacing=3px&lines=SOMNATH+CHAUDHARY" alt="SOMNATH CHAUDHARY" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=12&duration=2800&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=620&height=24&letterSpacing=2px&lines=CYBERSECURITY+%C2%B7+LINUX+%C2%B7+NETWORKING+%C2%B7+AND+BEYOND" alt="CYBERSECURITY · LINUX · NETWORKING · AND BEYOND" />
+
+<a href="https://som28-dev.netlify.app"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=20&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=560&height=30&lines=%3E+Learn.+Break.+Understand.+Document.+Repeat._;Building+skills%2C+breaking+limits.;Curiosity+today.+A+stronger+tomorrow." alt="typing" /></a>
 
 <br/>
 
@@ -20,7 +24,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=2&section=header" width="100%" />
 
-<h3 align="center"><code>[ 01 ]</code> &nbsp;whoami &nbsp;·&nbsp; <code>[ 02 ]</code> &nbsp;system_status</h3>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=15&duration=1600&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=700&height=34&letterSpacing=2px&lines=%5B+01+%5D+WHOAMI+++%C2%B7+++%5B+02+%5D+SYSTEM_STATUS" alt="[ 01 ] WHOAMI   ·   [ 02 ] SYSTEM_STATUS" /></div>
 
 <table align="center" width="100%">
 <tr>
@@ -53,12 +57,22 @@ UPTIME    : Lacking Sleep
 </tr>
 </table>
 
+<div align="center">
+
+```bash
+$ cat /etc/motivation
+
+"Building skills, breaking limits
+ and figuring things out one lab at a time."
+```
+
+</div>
 
 <a id="skills"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=2&section=header" width="100%" />
 
-<h3 align="center"><code>[ 03 ]</code> &nbsp;technical_skills</h3>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=15&duration=1600&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=460&height=34&letterSpacing=2px&lines=%5B+03+%5D+TECHNICAL_SKILLS" alt="[ 03 ] TECHNICAL_SKILLS" /></div>
 
 <div align="center">
 
@@ -87,7 +101,7 @@ UPTIME    : Lacking Sleep
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=2&section=header" width="100%" />
 
-<h3 align="center"><code>[ 04 ]</code> &nbsp;currently_learning</h3>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=15&duration=1600&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=480&height=34&letterSpacing=2px&lines=%5B+04+%5D+CURRENTLY_LEARNING" alt="[ 04 ] CURRENTLY_LEARNING" /></div>
 
 <div align="center">
 
@@ -106,7 +120,7 @@ Reverse Engineering             ▰▰▰▱▱▱▱▱▱▱   30%
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=2&section=header" width="100%" />
 
-<h3 align="center"><code>[ 05 ]</code> &nbsp;interests</h3>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=15&duration=1600&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=360&height=34&letterSpacing=2px&lines=%5B+05+%5D+INTERESTS" alt="[ 05 ] INTERESTS" /></div>
 
 <table align="center">
   <tr>
@@ -120,7 +134,7 @@ Reverse Engineering             ▰▰▰▱▱▱▱▱▱▱   30%
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=2&section=header" width="100%" />
 
-<h3 align="center"><code>[ 06 ]</code> &nbsp;github_stats</h3>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=15&duration=1600&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=400&height=34&letterSpacing=2px&lines=%5B+06+%5D+GITHUB_STATS" alt="[ 06 ] GITHUB_STATS" /></div>
 
 <div align="center">
 
@@ -141,7 +155,7 @@ Reverse Engineering             ▰▰▰▱▱▱▱▱▱▱   30%
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=2&section=header" width="100%" />
 
-<h3 align="center"><code>[ 07 ]</code> &nbsp;connect</h3>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=15&duration=1600&pause=100000&repeat=false&color=C4B5FD&center=true&vCenter=true&width=340&height=34&letterSpacing=2px&lines=%5B+07+%5D+CONNECT" alt="[ 07 ] CONNECT" /></div>
 
 <div align="center">
 
@@ -155,4 +169,6 @@ Reverse Engineering             ▰▰▰▱▱▱▱▱▱▱   30%
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=24,12,2&height=120&section=footer&text=Curiosity%20today.%20A%20stronger%20tomorrow.&fontColor=ede9fe&fontSize=16&fontAlignY=68" width="100%" />
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=13&duration=2600&pause=100000&repeat=false&color=A78BFA&center=true&vCenter=true&width=560&height=28&letterSpacing=2px&lines=CURIOSITY+TODAY.+A+STRONGER+TOMORROW." alt="CURIOSITY TODAY. A STRONGER TOMORROW." /></div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=24,12,2&height=100&section=footer" width="100%" />
