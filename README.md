@@ -142,7 +142,7 @@ Reverse Engineering             ▰▰▰▱▱▱▱▱▱▱   30%
 <a href="https://linkedin.com/in/somnath-chaudhary"><img src="https://img.shields.io/badge/LinkedIn-somnath--chaudhary-1a0f3d?style=for-the-badge&logo=linkedin&logoColor=c4b5fd&labelColor=1a0f3d&color=7c3aed" alt="LinkedIn" /></a>
 <a href="mailto:somuuu23@gmail.com"><img src="https://img.shields.io/badge/Gmail-somuuu23@gmail.com-1a0f3d?style=for-the-badge&logo=gmail&logoColor=c4b5fd&labelColor=1a0f3d&color=7c3aed" alt="Email" /></a>
 <a href="https://som28-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-som28--dev.netlify.app-1a0f3d?style=for-the-badge&logo=netlify&logoColor=c4b5fd&labelColor=1a0f3d&color=7c3aed" alt="Portfolio" /></a>
-<a href="https://tryhackme.com/p/chaudharysomnath393?tab=completed-rooms"><img src="https://img.shields.io/badge/TryHackMe-chaudharysomnath393-1a0f3d?style=for-the-badge&logo=tryhackme&logoColor=c4b5fd&labelColor=1a0f3d&color=7c3aed" alt="TryHackMe" /></a>
+<a href="https://tryhackme.com/p/chaudharysomnath393?tab=completed-rooms"><img src="https://img.shields.io/badge/TryHackMe-Somnath-1a0f3d?style=for-the-badge&logo=tryhackme&logoColor=c4b5fd&labelColor=1a0f3d&color=7c3aed" alt="TryHackMe" /></a>
 
 <br/><br/>
 
